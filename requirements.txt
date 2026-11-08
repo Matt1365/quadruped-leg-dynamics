@@ -1,0 +1,8 @@
+numpy>=2.1
+sympy>=1.13
+matplotlib>=3.10
+pillow
+pin>=3.0
+drake>=1.30
+jupyter
+pytest
